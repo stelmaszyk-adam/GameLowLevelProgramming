@@ -1,4 +1,4 @@
-# GameLowLevelProgramming
+# GameLowLevelProgramming 🔆 🔅
 
 It is game, where we have to manage hive, we can bulid bee and the king of bee. Bees are divided on workers and fighters. 
 Fighters have to fight with bear or bears. Bear want to achieve honey from hive and kill bees. 
